@@ -1,0 +1,17 @@
+body {
+    color: steelblue;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.holder-type {
+    color: orange;
+    margin-top: 10px;
+}
+
+h2 {
+    background-color: pink;
+}
